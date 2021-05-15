@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with cybersecurity
 
-- 📫 How to reach me: chirpping @siddharth_png
+- 📫 How to reach me: chirping @siddharth_png
 
 
