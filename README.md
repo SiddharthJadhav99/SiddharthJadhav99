@@ -1,6 +1,6 @@
 ### Hey there, I'm Siddharth 👋
 
-- 🌱 I’m currently learning Data Structures and Algorithm 
+- 🌱 I’m currently learning Data Structures and Algorithms
 
 - 👯 I’m looking to collaborate on cool projects based on Web Development
 
